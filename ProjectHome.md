@@ -1,0 +1,1 @@
+Nightmare Redux (NMR) is a database editor for the game MajorMUD.
